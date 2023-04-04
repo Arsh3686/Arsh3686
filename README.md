@@ -52,7 +52,7 @@
 ## Activity Graph 📊 :
 
 <br>
-
+[![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arsh3686&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/Arsh3686/github-readme-activity-graph)
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1498px" height="523px" viewBox="0 0 1498 523" enable-background="new 0 0 1498 523" xml:space="preserve">  <image id="image0" width="1498" height="523" x="0" y="0"
