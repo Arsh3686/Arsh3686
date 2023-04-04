@@ -52,6 +52,7 @@
 ## Activity Graph 📊 :
 
 <br>
+---
 [![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=Arsh3686&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/Arsh3686/github-readme-activity-graph)
 ---
 
