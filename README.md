@@ -45,7 +45,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arsh3686)](https://github.com/Arsh3686/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arsh3686)](https://github.com/Arsh3686/github-profile-trophy)
 
 <br>
 
