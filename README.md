@@ -41,13 +41,13 @@
 
 <br>
 
-## GitHub Thropies 🏆 :
+<!-- ## GitHub Thropies 🏆 :
 
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arsh3686)](https://github.com/Arsh3686/github-profile-trophy)
 
-<br>
+<br> -->
 
 ## Activity Graph 📊 :
 
