@@ -7,7 +7,7 @@
 ## About Me :
 - I am Front End Developer 
 - ReactJs || Solid Js lover .
-- 🎓 Studies Software Engineering at [Mangalmay Institute of Engineering]
+- 🎓 Studies Software Engineering at [[Mangalmay Institute of Engineering](https://www.mangalmay.org/)]
 - 🏡'Lives in **Noida UP**
 - ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
 
