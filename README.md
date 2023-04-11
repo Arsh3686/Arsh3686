@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/Arsh3686?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Arsh3686?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Arsh3686.repoName) <img src="https://komarev.com/ghpvc/?username=Arsh3686" alt="Arsh3686" />
 
 ## About Me :
-- I am Front End Developer 
+- I am a wonderful Front End Developer 
 - ReactJs || Solid Js lover .
 - 🎓 Studies Software Engineering at [[Mangalmay Institute of Engineering](https://www.mangalmay.org/)]
 - 🏡'Lives in **Noida UP**
