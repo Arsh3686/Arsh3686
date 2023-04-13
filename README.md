@@ -38,8 +38,8 @@
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arsh3686&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![Aditya Raj Singh GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsh3686&theme=algolia)](https://github.com/Arsh3686/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh3686&theme=algolia)](https://github.com/Arsh3686/github-readme-stats) [![Arsh3686 wakatime stats]( <a href="https://wakatime.com/@Josee9988/">
-        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Josee9988&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
-            alt="Josee9988's wakatime last year stats">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Arsh3686&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+            alt="Aditya's wakatime last year stats">
     </a>)](https://github.com/Arsh3686/github-readme-stats)
 
 <br>
