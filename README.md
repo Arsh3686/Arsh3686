@@ -45,7 +45,7 @@
 <br>
 
 <!-- ## GitHub Thropies 🏆 :
-
+<figure><embed src="https://wakatime.com/share/@Arsh3686/bdf9e11a-24f4-42db-aaeb-a58b11ff2ed5.svg"></embed></figure>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arsh3686)](https://github.com/Arsh3686/github-profile-trophy)
